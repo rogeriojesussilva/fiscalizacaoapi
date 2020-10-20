@@ -1,4 +1,7 @@
+[![Build Status](https://www.travis-ci.org/rogeriojesussilva/fiscalizacaoapi.svg?branch=main)](https://www.travis-ci.org/rogeriojesussilva/fiscalizacaoapi)
+
 # fiscalizacaoapi
+
 
 or create a new repository on the command line
 echo "# fiscalizacaoapi" >> README.md
